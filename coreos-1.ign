@@ -1,0 +1,27 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "k8s",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDPbqRsGZhx4P3lbecnFxbT9/4/oBY0s/09anZ8qlT2QGFd4GnlQ5727BH3WMaN+txjvfiLnX6a5anVVJk8VnUi5U8IIFJniJqDEHH3lN+99rGOHY2ymImPOS7IBbN+Ok5kcHpsDa75uIq1J9VWbZs7fZUY95pke63mF1Ht/CsIQNSbbXrZtRzztzU85dLuhAxYXbEUzU5Fh/1IxaYjRoRYaGfjmQmhYVaH8GUzvvwkemFAUaEoh1M2CnAL/NNbTuegSNbLamgSgiBbuIL8OKT3YgXQr+E21GKlnoIAzvDvpqSKq3sbzbkpeFNzq+tJAabhZ9Wss+NXLoiI+SqDEWkshlgLTx1kg9FHyghgCBkIAdRClRBaMl81SK+X1WR5DUOiZmmSxADEj1vfi4DSPGLuouGu3SmxO787yy/sRMNOwi0gQ+C7vzXdEip9tdRW2UqqudhON3+IBKaVtLHMH/3/VrHCtqqVKxS0c/JaDDge+qJL+Xmgo+WOVrIaICfiR/U= ronaldofc@DELL-13"
+        ]
+      }
+    ]
+  },
+  "storage": {
+    "files": [
+      {
+        "path": "/etc/NetworkManager/system-connections/ens2.nmconnection",
+        "contents": {
+          "compression": "gzip",
+          "source": "data:;base64,H4sIAAAAAAAC/0TKUYqDQBAE0P8+xR5gnd0Rf5alTyJ+dGZKbHBamWkD3j4kRFJVPw9qTJsZkutmE2lmWIt/Pfm5g+ELqsFJzVFnSehMCq7PqPt9mEhyrmgtcvwN13764ftDytY4hlf/n+gapKaFk3q4nYcG5IOKnN0suvIsawMV+LJlLmKHrF/vPAIAAP//r7RqN64AAAA="
+        },
+        "mode": 384
+      }
+    ]
+  }
+}
