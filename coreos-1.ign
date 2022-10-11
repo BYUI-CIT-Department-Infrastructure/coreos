@@ -18,7 +18,7 @@
         "path": "/etc/NetworkManager/system-connections/ens2.nmconnection",
         "contents": {
           "compression": "gzip",
-          "source": "data:;base64,H4sIAAAAAAAC/0TKUYqDQBAE0P8+xR5gnd0Rf5alTyJ+dGZKbHBamWkD3j4kRFJVPw9qTJsZkutmE2lmWIt/Pfm5g+ELqsFJzVFnSehMCq7PqPt9mEhyrmgtcvwN13764ftDytY4hlf/n+gapKaFk3q4nYcG5IOKnN0suvIsawMV+LJlLmKHrF/vPAIAAP//r7RqN64AAAA="
+          "source": "data:;base64,H4sIAAAAAAAC/zTKQQqDMBCF4f2cogeoaSNSkJKTiItp8sQBM0oyFrx9aanvrT74h7iqIpqsOpKkAK2+b8mODQE2oyiMRA1l4ohGOeNsBtne3UicUkGtPvi78659uL6/td31lKekNXj3+/OLpoJLnEMUc69jF4e0U+ajmViWMPFSQRk2rylk1p2Xy3/0CQAA//99rBBUrQAAAA=="
         },
         "mode": 384
       }
